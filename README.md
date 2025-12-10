@@ -94,7 +94,7 @@ open up localhost:
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/nedicalbot
+    - Save the URI: 437639821578.dkr.ecr.us-east-1.amazonaws.com/nedicalbot
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
